@@ -1,6 +1,6 @@
 # ReDi-Data-Science
 
-The Project is made during the ReDi School DataScience course in München.
+The Project is made during the ReDi School Python Intermediate course in München.
 
 Data Science project made in Jupyter Notebook.
 
