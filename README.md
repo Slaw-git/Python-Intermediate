@@ -11,3 +11,5 @@ Data visualisation.
 Data prediction using Decision Tree (will the loan fully paid or not)
 
 Decision Tree plot just for info.
+
+HTML file schows the Project without using Jypiter Notebook
